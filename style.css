@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.big-cart{
+    background-color:pink !important;
+}
+
+.big-cart img{
+    border-radius: 20px;
+    box-shadow: 10px 5px 12px 9px palevioletred;
+}
+
+#navbarNavAltMarkup ul li a:hover{
+    background-color:aqua !important;
+    border-radius: 20px;
+}
+
+
+.btn1:hover{
+    box-shadow: 9px 4px 2px 3px gray;
+    
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+} 
